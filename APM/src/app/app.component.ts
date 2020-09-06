@@ -12,5 +12,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   pageTitle: string = 'My First Angular Component -- Acme Product Management';
-  // getTitle: string {...};
+  // getTitle(): string {...};
 }
